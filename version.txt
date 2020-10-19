@@ -1,7 +1,7 @@
 VSVersionInfo(
     ffi=FixedFileInfo(
-		filevers=(1, 4, 3, 0), 
-		prodvers=(1, 4, 3, 0),
+		filevers=(1, 5, 1, 0), 
+		prodvers=(1, 5, 1, 0),
  		mask=0x3f, 
 		flags=0x0, 
 		OS=0x40004, 
@@ -18,13 +18,13 @@ VSVersionInfo(
 			StringStruct('Comments', 'Designed and coded by Rhys Morgan.'), 
 			StringStruct('CompanyName', ''), 
 			StringStruct('FileDescription', 'Compatibility between airfoiltools.com and ANSYS.'), 
-			StringStruct('FileVersion', '1, 4, 3, 0'), 
+			StringStruct('FileVersion', '1, 5, 1, 0'), 
 			StringStruct('InternalName', 'Aerofoil Formatter'), 
 			StringStruct('LegalCopyright', 'Copyright 2020 Rhys Morgan.'), 
 			StringStruct('LegalTrademarks', ''), 
 			StringStruct('OriginalFilename', 'AerofoilFormatter.exe'), 
 			StringStruct('ProductName', 'Aerofoil Formatter'), 
-			StringStruct('ProductVersion', '1, 4, 3, 0')
+			StringStruct('ProductVersion', '1, 5, 1, 0')
 		    ]
 		)
 	    ]
